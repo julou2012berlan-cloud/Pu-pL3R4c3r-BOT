@@ -1,1 +1,13 @@
-
+{
+  "name": "purple-racer-ticket-bot",
+  "version": "1.0.0",
+  "description": "Bot ticket PuЯpL3R4c3r",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^16.4.7"
+  }
+}
